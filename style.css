@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+
+    
+}
+button{
+    
+    margin-left: auto;
+    margin-right: auto;display: block;
+    color: rgb(15, 15, 15);
+
+
+}
+button:hover{
+    color: rgb(255, 21, 0);
+    box-sizing: border-box;
+}
+img{
+    border: 0cap;
+    color: black;
+    border-right: 150pix;
+}
+.centerImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+}
+h1{
+    color: rgb(12, 12, 12);
+}
+p{
+    color: rgb(92, 43, 155);
+}
+.icon a{
+    text-decoration: none;
+    color: #000;
+}
+
+icon ion-icon{
+    margin-left: 7%;
+    color: #000;
+    margin-right: -60px;
+    font-size: 100px;
+
+}
+
+icon ion-icon:hover{
+    color: rgb(255, 21, 0);
+}
